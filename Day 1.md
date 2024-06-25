@@ -177,7 +177,7 @@ m = 10
 print (m)
 10
 2. Constants
-Assigning value to constant in Python
+##Assigning value to constant in Python
 Example 1: Declaring and assigning value to a constant
 Note: In reality, we don't use constants in Python. Naming them in all capital letters is a convention to separate them from variables, however, it does not actually prevent reassignment.
 
@@ -190,7 +190,7 @@ GRAVITY = 9.8
     >>>print(constant.PI)
     ^
 SyntaxError: invalid syntax
-Rules and Naming Convention for Variables and constants
+##Rules and Naming Convention for Variables and constants
 The examples you have seen so far have used short, terse variable names like m and n. But variable names can be more verbose. In fact, it is usually beneficial if they are because it makes the purpose of the variable more evident at first glance.
 
 Constant and variable names should have a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) or an underscore _. For example:
