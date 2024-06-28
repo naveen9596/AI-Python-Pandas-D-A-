@@ -50,4 +50,3 @@
 	Implementing data analysis pipelines on AWS
 	Deploying machine learning models on AWS SageMaker
 	Real-world data science and analytics projects showcasing AWS integration
-![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/aa7ef7e6-f9ec-41b0-ba5c-7452152db2de)
