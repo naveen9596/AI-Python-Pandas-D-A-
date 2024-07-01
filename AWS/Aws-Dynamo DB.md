@@ -26,10 +26,12 @@ Step 1:  Login to your AWS account and then you will see this screen. Select All
 ![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/95320f75-e4db-4604-afd4-f6aa6d7c3b31)
 
 
+# Step 5: After that, you will reach this screen where you can set your Table settings and further Click “Create Table”.
+
+![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/a0a6f14f-bec1-4f50-92e4-b9458ed55afa)
 
 
-
-
+![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/a3532341-991f-4cb7-9970-b4603ad85e6c)
 
 
 
@@ -48,9 +50,6 @@ Focus on driving innovation with no operational overhead. Build out your game pl
 
 # Free Trial Account:
 ![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/eedc9ae2-cf95-405a-a606-ef3b0ef1e658)
-
-
-
 
 
 ## Understanding Amazon DynamoDB:
