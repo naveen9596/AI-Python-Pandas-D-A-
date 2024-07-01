@@ -1,11 +1,16 @@
 ## Understanding Amazon DynamoDB:
 **Services and covered:**
+
 `-` What the service does and the benefit it provides
 
 `-` When to use the service 
+
 `-` Basic DynamoDB terminology 
+
 `-` How it relates to other databases
+
 `-` How to interact with the database using the DynamoDB API
+
 `-` How to create DynamoDB tables using the AWS Console
 `-` How to create local and global secondary indexes 
 `-` How to provision and configure DynamoDB in a manner that ensures it is highly available and able to serve all read and write requests to it
