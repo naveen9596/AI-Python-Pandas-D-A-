@@ -1,6 +1,7 @@
 ## Understanding Amazon DynamoDB:
 **Services and covered:**
 `-` What the service does and the benefit it provides
+
 `-` When to use the service 
 `-` Basic DynamoDB terminology 
 `-` How it relates to other databases
