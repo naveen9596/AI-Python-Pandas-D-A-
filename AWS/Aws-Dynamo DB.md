@@ -6,6 +6,35 @@
 ✔ Features include DynamoDB streams for building serverless event-driven applications and zero-ETL integration with Amazon OpenSearch Service for powerful search capabilities without the need to design, build, or maintain complex data pipelines.
 ✔ Reliability is supported with managed backups, point-in-time recovery, and a broad set of security controls and compliance standards.
 
+## Steps to Create AWS DynamoDB Table
+In this article we will look into the process of creating a table in AWS DynamoDB. To create a table follow these steps:
+
+Step 1:  Login to your AWS account and then you will see this screen. Select All services.
+
+
+![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/8c39140a-5c71-4daa-98b1-841958fccfe1)
+
+## Step 2: In the database section select DynamoDB.
+
+![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/57d2e64d-f3ac-43dd-84d1-a55b63d242f3)
+
+## Step 3: Select the Create table option.
+![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/81cf4d3c-6be6-49c8-a15c-13548fff2acc)
+
+
+## Step 4: Give a table name to your table. Name your primary key and select its data type.
+![image](https://github.com/naveen9596/AI-BFS-IGAIN/assets/108785228/95320f75-e4db-4604-afd4-f6aa6d7c3b31)
+
+
+
+
+
+
+
+
+
+
+
 ## Use Cases
 Develop software applications
 Build internet-scale applications supporting user-content metadata and caches that require high concurrency and connections for millions of users and millions of requests per second.
