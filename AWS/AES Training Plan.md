@@ -1,4 +1,4 @@
-### Training plan- AWS services for data engineering:
+### Training plan- AWS services for AI-BFS:
 
 ### Week 1: Introduction to AWS and Core Services
 **Day 1: Introduction to Cloud Computing and AWS**
