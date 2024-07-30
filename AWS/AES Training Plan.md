@@ -88,5 +88,3 @@
 - **AWS Training and Certification:** Encourage participants to pursue AWS certifications.
 - **Community and Forums:** Engage with the AWS community and forums for additional support and knowledge sharing.
 - **Hands-on Labs:** Utilize platforms like Qwiklabs for additional practice.
-
-This training plan provides a comprehensive overview of essential AWS services for data engineering, ensuring IT professionals gain the skills needed to design and manage data pipelines on AWS.
